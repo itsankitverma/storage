@@ -95,7 +95,3 @@ const Todo = () => {
 }
 
 export default Todo
-
-
- //TODO Please Subscribe to ThapaTechnical Youtube Channel
- //TODO Click Here: https://www.youtube.com/thapatechnical
